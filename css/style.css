@@ -45,3 +45,28 @@ thead {
 .background-blue {
     background-color: rgb(164, 213, 230);
 }
+
+.img-footer {
+    height: 200px;
+    width: 250px;
+    margin-bottom: 5px;
+}
+
+footer h3 {
+    color: rgb(179, 179, 179);
+}
+
+.img-footer p {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 15px;
+    padding-top: 10px;
+}
+#monitor {
+    background-image: url(../img/monitor.jpg);
+}
+
+#graph {
+    background-image: url("../img/graph.jpg");
+}
