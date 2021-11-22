@@ -1,13 +1,13 @@
 #page-header {
-    background-image: url("./img/pattern.png");
-    /* background-color: rgb(122, 203, 230); */
-    background-size: cover;
+    background-image: url("../img/pattern.png");
+    background-color: rgb(38, 110, 219);
     width: 100%;
-    height: 100px;
+    height: 180px;
 }
 
 #page-header img {
-    width: 30%;
+    width: 250px;
+    height: 270px;
 }
 
 h1, h4 {
